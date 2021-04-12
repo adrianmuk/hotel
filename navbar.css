@@ -1,0 +1,7 @@
+.navbar {
+    margin-bottom: 20px;
+  }
+#navbarsExample01{
+    display: flex;
+    justify-items: flex-end;
+}  

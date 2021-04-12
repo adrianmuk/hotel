@@ -1,0 +1,40 @@
+
+    #page-wrapper{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        }
+    form{
+        padding-top: 20px;
+        /* display: flex;
+        flex-direction: column;
+        justify-content: left; */
+        
+        }
+    div.transbox {
+        /* margin: 30px; */
+        background-color: #ffffff;
+        border: 1px solid black;
+        opacity: 0.5;
+        filter: alpha(opacity=60); /* For IE8 and earlier */
+    }
+    
+    button:hover{
+        box-shadow: 0 8px 16px 0 rgba(43, 99, 62, 0.2), 0 6px 20px 0 rgba(144, 233, 206, 0.19);
+    }
+    footer{
+        height: auto;
+        padding-bottom: 18px;
+        padding-top:18px;
+        background-color: #171718;
+        color: honeydew;
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+    .upper-footer{
+        font-family: Agency FB;
+    }
+    .lower-footer{
+        background-color: black;
+        height: 5px;
+    }
